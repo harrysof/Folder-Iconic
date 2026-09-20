@@ -13,7 +13,7 @@
 
 ## Screenshots
 
-> Drop your screenshots into the [`screenshots`](screenshots) folder and reference them below.
+> Drop your screenshots into the [`<img width="1541" height="872" alt="Archivary_bCfJEN73Gz" src="https://github.com/user-attachments/assets/a28b2363-4e59-4775-ba28-6a57c7cbe7bb" />`](screenshots) folder and reference them below.
 
 <!-- Replace the placeholders below with real screenshots. -->
 
