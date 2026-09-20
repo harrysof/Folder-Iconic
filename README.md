@@ -13,24 +13,11 @@
 
 ## Screenshots
 
-> Drop your screenshots into the [`screenshots`](screenshots) folder and reference them below.
-
-<!-- Replace the placeholders below with real screenshots. -->
-
 ### Main window
 
 <p align="center">
   <img width="1541" height="872" alt="Folder Iconic main window" src="https://github.com/user-attachments/assets/a28b2363-4e59-4775-ba28-6a57c7cbe7bb">
 </p>
-
-### Layers and properties
-
-<p align="center">
-  <img src="screenshots/layers-properties.png" alt="Layers and properties" width="420">
-  <img src="screenshots/export.png" alt="Export panel" width="300">
-</p>
-
-*(placeholders — `screenshots/layers-properties.png`, `screenshots/export.png`)*
 
 ---
 
