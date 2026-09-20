@@ -13,17 +13,15 @@
 
 ## Screenshots
 
-> Drop your screenshots into the [`<img width="1541" height="872" alt="Archivary_bCfJEN73Gz" src="https://github.com/user-attachments/assets/a28b2363-4e59-4775-ba28-6a57c7cbe7bb" />`](screenshots) folder and reference them below.
+> Drop your screenshots into the [`screenshots`](screenshots) folder and reference them below.
 
 <!-- Replace the placeholders below with real screenshots. -->
 
 ### Main window
 
 <p align="center">
-  <img src="screenshots/main-window.png" alt="Main window" width="820">
+  <img width="1541" height="872" alt="Folder Iconic main window" src="https://github.com/user-attachments/assets/a28b2363-4e59-4775-ba28-6a57c7cbe7bb">
 </p>
-
-*(placeholder — `screenshots/main-window.png`)*
 
 ### Layers and properties
 
